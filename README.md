@@ -30,7 +30,9 @@ Click the image above or [https://youtu.be/vptCjFsge7A]).
 ## Technologies Used
 
 • HTML, CSS, JavaScript for frontend
+
 • PHP, MySQL for backend
+
 • Stripe API for secure payments
 
 # Dependencies
