@@ -55,24 +55,21 @@ Click the image above or [https://youtu.be/vptCjFsge7A]).
 
 ### Payment
 ![ Payment](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445976_w.jpg
-https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445977_x.jpg
 
-)
+https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445977_x.jpg)
 ### Admin Login
-![ Admin Login]https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445978_y.jpg
-)
+![ Admin Login]https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445978_y.jpg)
 
 ### Admin Panel
-![ Admin Panel]https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445979_w.jpg
-)
+![ Admin Panel]https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445979_w.jpg)
 
 ### Add Product
 ![Add Product]https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445981_y.jpg
+
 https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445982_w.jpg)
 
 ### History
-![History]https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445983_w.jpg
-)
+![History]https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445983_w.jpg)
 
 
 
