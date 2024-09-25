@@ -34,6 +34,18 @@ Click the image above or [https://youtu.be/vptCjFsge7A]).
 ### Footer
 ![Footer](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445967_w.jpg)
 
+### Panjabi
+![Panjabi](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445985_w.jpg)
+
+### Perfume
+![Perfume](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445984_w.jpg
+)
+
+### Accessorice
+![ Accessorice](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445986_w.jpg
+)
+
+
 
 ## Technologies Used
 
