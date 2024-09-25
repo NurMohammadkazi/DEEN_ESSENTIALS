@@ -66,7 +66,7 @@ Click the image above or [https://youtu.be/vptCjFsge7A]).
 ### Add Product
 ![Add Product](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445981_y.jpg)
 
-(https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445982_w.jpg)
+![Add Product](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445982_w.jpg)
 
 ### History
 ![History](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445983_w.jpg)
