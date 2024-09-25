@@ -47,7 +47,6 @@ Click the image above or [https://youtu.be/vptCjFsge7A]).
 
 ### ChatBot
 ![ ChatBot](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445969_y.jpg
-
 )
 
 ### Cart
