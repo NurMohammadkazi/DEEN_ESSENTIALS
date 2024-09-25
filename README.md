@@ -56,6 +56,9 @@ Click the image above or [https://youtu.be/vptCjFsge7A]).
 ### Payment
 ![ Payment](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445976_w.jpg)
 
+![ Payment](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445977_x.jpg)
+
+
 
 ### Admin Login
 ![ Admin Login](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445978_y.jpg)
