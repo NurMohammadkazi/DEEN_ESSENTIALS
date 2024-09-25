@@ -31,7 +31,7 @@ Click the image above or [https://youtu.be/vptCjFsge7A]).
 ### Homepage
 ![Homepage](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445965_w.jpg)
 
-
+### Footer
 ![Footer](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445967_w.jpg)
 
 
