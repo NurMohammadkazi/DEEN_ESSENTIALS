@@ -18,3 +18,10 @@ Islamic attire like Punjabi clothing.
 11. Feedback and Reviews
 12. Sustainability and Ethical Practices
 13. Accessibility Features
+## Demo Video
+
+Watch the full walkthrough of Fashion World in action:
+
+[![]()
+
+Click the image above or []).
